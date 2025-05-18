@@ -104,7 +104,7 @@ Draws: 1
 
 ## 📃 License
 
-MIT License © 2024 \[Your Name]
+MIT License © 2024 Pradyumna Elavarthi
 
 ---
 
